@@ -1,6 +1,6 @@
 # Edge Tunnel（Beta）
 
-Running **V2ray** in the edge.
+Running **V2y** in the edge.
 
 # Documentation
 
